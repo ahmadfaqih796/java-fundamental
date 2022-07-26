@@ -16,11 +16,11 @@ public class Main {
       System.out.println(numeric);
 
       // long
-      long myLong = 150000000L;
+      long myLong = 15000000000L;
       System.out.println(myLong);
 
       // double
-      double myDouble = 11.434d;
+      double myDouble = 121.434d;
       System.out.println(myDouble);
    }
 }
