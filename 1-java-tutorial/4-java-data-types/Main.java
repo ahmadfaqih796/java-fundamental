@@ -16,7 +16,7 @@ public class Main {
       System.out.println(numeric);
 
       // long
-      long myLong = 15000000000L;
+      long myLong = 150000000L;
       System.out.println(myLong);
 
       // double
