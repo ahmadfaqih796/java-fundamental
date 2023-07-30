@@ -20,7 +20,7 @@ public class Main {
       System.out.println(myLong);
 
       // double
-      double myDouble = 19.79d;
+      double myDouble = 22.434d;
       System.out.println(myDouble);
    }
 }
