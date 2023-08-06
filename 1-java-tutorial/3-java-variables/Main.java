@@ -9,5 +9,9 @@ public class Main {
       String lastName = "Doe";
       String fullName = firstName + lastName;
       System.out.println(fullName);
+
+      // Declare Mulitiple
+      int x = 5, y = 6, z = 50;
+      System.out.println(x + y + z);
    }
 }
