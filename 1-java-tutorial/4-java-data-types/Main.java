@@ -11,5 +11,16 @@ public class Main {
       System.out.println(myBool);
       System.out.println(myText);
 
+      // numbers
+      byte numeric = 100;
+      System.out.println(numeric);
+
+      // long
+      long myLong = 15000000000L;
+      System.out.println(myLong);
+
+      // double
+      double myDouble = 19.99d;
+      System.out.println(myDouble);
    }
 }
