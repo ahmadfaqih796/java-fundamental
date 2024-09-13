@@ -1,4 +1,4 @@
-package JavaTutorial.T1Home;
+package Java.J1Tutorial.T1Home;
 
 public class Home {
 

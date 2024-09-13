@@ -1,4 +1,4 @@
-package JavaTutorial.T3Variables;
+package Java.J1Tutorial.T3Variables;
 
 public class Variables {
 

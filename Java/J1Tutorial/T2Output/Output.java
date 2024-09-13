@@ -1,4 +1,4 @@
-package JavaTutorial.T2Output;
+package Java.J1Tutorial.T2Output;
 
 public class Output {
 

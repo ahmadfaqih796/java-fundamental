@@ -1,10 +1,10 @@
-import JavaTutorial.T3Variables.Variables;
+import Java.J1Tutorial.T1Home.Home;
 
 public class Main {
    public static void main(String[] args) {
       Main coba = new Main();
-      Variables variables = new Variables();
-      variables.iniInteger();
+      Home home = new Home();
+      home.printMessage();
       coba.coba("Faqih");
    }
 

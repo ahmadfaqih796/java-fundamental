@@ -1,4 +1,4 @@
-package JavaTutorial.T5Comment;
+package Java.J1Tutorial.T5Comment;
 
 public class Comment {
 

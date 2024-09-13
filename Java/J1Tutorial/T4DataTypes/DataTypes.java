@@ -1,4 +1,4 @@
-package JavaTutorial.T4DataTypes;
+package Java.J1Tutorial.T4DataTypes;
 
 public class DataTypes {
 
