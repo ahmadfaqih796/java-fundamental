@@ -1,5 +1,8 @@
-public class Main {
-   public static void main(String[] args) {
+package JavaTutorial.T3Variables;
+
+public class Variables {
+
+   public void printMessage() {
       // Variable
       int myNum;
       myNum = 15;
@@ -19,4 +22,5 @@ public class Main {
       // int minutesPerHour = 60; // Good
       // int m = 60; // OK, but not so easy to understand what m actually is
    }
+
 }

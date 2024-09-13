@@ -1,5 +1,8 @@
-public class Main {
-   public static void main(String[] args) {
+package JavaTutorial.T4DataTypes;
+
+public class DataTypes {
+
+   public void printMessage() {
       int myNum = 5; // Integer (whole number)
       float myFloatNum = 5.99f; // Floating point number
       char myLetter = 'D'; // Character

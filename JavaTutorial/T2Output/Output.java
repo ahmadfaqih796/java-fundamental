@@ -1,5 +1,8 @@
-public class Main {
-   public static void main(String[] args) {
+package JavaTutorial.T2Output;
+
+public class Output {
+
+   public void printMessage() {
       // Print Text
       System.out.println("Hello World!");
       System.out.println("I am learning Java.");
