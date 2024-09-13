@@ -23,4 +23,14 @@ public class Variables {
       // int m = 60; // OK, but not so easy to understand what m actually is
    }
 
+   public void iniString() {
+      String name = "Faqih";
+      System.out.println(name);
+   }
+
+   public void iniInteger() {
+      int age = 20;
+      System.out.println(age);
+   }
+
 }
