@@ -30,6 +30,10 @@ Penjelasan tentang struktur proyek:
 3. Buka proyek ini di lingkungan pengembangan (IDE) Anda seperti software Visual Studio Code.
 4. Intall Extentionsnya dengan judul `Extension Pack for Java`.
 5. Kompilasi dan jalankan kode Java yang ada dalam direktori dengan file `Main.java` kemudian klik kanan, pilih `Run Java`.
+6. atau juga bisa jalanin dengan terminal
+```
+javac Main.java; java Main;
+```
 
 ## Kontribusi
 
