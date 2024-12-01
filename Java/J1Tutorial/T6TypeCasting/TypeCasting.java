@@ -4,7 +4,7 @@ public class TypeCasting {
 
   public void printMessage() {
     double myDouble = 9.78d;
-    int myInt = (int) myDouble; // Manual casting: double to int
+    int myInt = (int) myDouble; // Manual casting: double ke int
 
     System.out.println(myDouble); // Outputs 9.78
     System.out.println(myInt); // Outputs 9
