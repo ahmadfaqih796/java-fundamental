@@ -1,10 +1,10 @@
-import Java.J1Tutorial.T7TypeConverting.TypeConverting;
+import Java.J1Tutorial.T8TypeCheck.TypeCheck;
 
 public class Main {
 
   public static void main(String[] args) {
     System.out.println(Math.round(6.5));
-    TypeConverting tc = new TypeConverting();
-    tc.printMessage();
+    TypeCheck typeCheck = new TypeCheck();
+    typeCheck.printMessage();
   }
 }
